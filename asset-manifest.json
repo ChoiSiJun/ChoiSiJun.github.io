@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/soeunSim.github.io/static/css/main.907c295d.css",
+    "main.js": "/soeunSim.github.io/static/js/main.41e51c97.js",
+    "static/js/453.0f4552a2.chunk.js": "/soeunSim.github.io/static/js/453.0f4552a2.chunk.js",
+    "static/media/books-bg.jpg": "/soeunSim.github.io/static/media/books-bg.379b71c6f372b6e99192.jpg",
+    "index.html": "/soeunSim.github.io/index.html",
+    "main.907c295d.css.map": "/soeunSim.github.io/static/css/main.907c295d.css.map",
+    "main.41e51c97.js.map": "/soeunSim.github.io/static/js/main.41e51c97.js.map",
+    "453.0f4552a2.chunk.js.map": "/soeunSim.github.io/static/js/453.0f4552a2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.907c295d.css",
+    "static/js/main.41e51c97.js"
+  ]
+}
